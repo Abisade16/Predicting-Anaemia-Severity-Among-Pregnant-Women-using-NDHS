@@ -1,9 +1,6 @@
 # Predicting-Anaemia-Severity-Among-Pregnant-Women-using-NDHS
 Machine learning and deep learning models for predicting anaemia severity among pregnant Nigerian women using the 2024 NDHS — with SHAP interpretability analysis.
 
-# Predicting Anaemia Severity Among Pregnant Women in Nigeria
-### A Machine Learning and Deep Learning Study Using the 2024 NDHS
-
 ## Overview
 This repository contains the full source code for my dissertation project, which 
 develops and evaluates machine learning and deep learning models for predicting 
